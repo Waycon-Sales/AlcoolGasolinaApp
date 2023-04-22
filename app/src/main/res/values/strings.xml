@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlcoolGasolinaApp</string>
+    <string name="txgasolina" />
+    <string name="hint_gasolina">Valor da gasolina</string>
+    <string name="tv_gasolina">Gasolina</string>
+    <string name="tv_alcool">Álcool</string>
+    <string name="hint_alcool">Valor do Álcool</string>
+    <string name="btn_calc">calcular</string>
+    <string name="lbl_switch">75%</string>
+    <string name="result">"Álcool é a melhor opção "</string>
+</resources>
